@@ -7,4 +7,3 @@ const user = {
 };
 
 console.log(`User Info: ${user.name}, ${user.age} , ${user.isStudent}`);
-asas
